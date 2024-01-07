@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         //
+        print("LALE")
         //TEST
         //
         print("ERGENE")
