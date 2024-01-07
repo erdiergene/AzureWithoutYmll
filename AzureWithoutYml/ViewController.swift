@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         //
         //TEST
         //
-        print("ERGENE")
+        print("ERGENE ERDİ")
         super.viewDidLoad()
         
         // Do any additional setup after loading the view.
