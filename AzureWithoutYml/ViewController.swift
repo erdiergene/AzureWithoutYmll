@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("load")
         print("load22")
+        print("load33")
         // Do any additional setup after loading the view.
     }
 
